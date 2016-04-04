@@ -26,25 +26,25 @@ __Business__
 
 __Applications__
 
-* Request system behaviour view
-* Application cooperation view
-* Application structure view
-* Application usage view
+* Request system behaviour view - describes the internal functioning of an application, here we have modelled the request system that has 2 main types of requests: instalation and maintenance.
+* Application cooperation view - describes the interactions between applications.
+* Application structure view - gives a detailed view of the structure of an application.
+* Application usage view - reveals the dependency of processes and services to each application.
 
 __Technology__
-* Infrastructure view
-* Infrastructure usage view
-* Implementation and deployment view
+* Infrastructure view - gives an overview of the infrastruture of the company.
+* Infrastructure usage view - gives the relations between applications and infrastructure.
+* Implementation and deployment view - this view provides usefull information to understand the system performance and scalability.
 
 __Implementation and migration__ 
- * Migration view
- * Implementation and migration view
+ * Migration view - an architecture of transition.
+ * Implementation and migration view - the model for implementation and transition.
 
 
 __Additional views__
 
-* Layered view
-* Lanscape view
+* Layered view - this view has plenty of information with all layers in one view, this allows an analysis of the applications and processes presented in each layer as their dependencies.
+* Lanscape view - this view allows to allocate resources for each situation.
 
 # Files
 
