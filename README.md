@@ -32,9 +32,9 @@ __Applications__
 * `Application usage view` - reveals the dependency of processes and services to each application.
 
 __Technology__
-* Infrastructure view - gives an overview of the infrastruture of the company.
-* Infrastructure usage view - gives the relations between applications and infrastructure.
-* Implementation and deployment view - this view provides usefull information to understand the system performance and scalability.
+* `Infrastructure view` - gives an overview of the infrastruture of the company.
+* `Infrastructure usage view` - gives the relations between applications and infrastructure.
+* `Implementation and deployment view` - this view provides usefull information to understand the system performance and scalability.
 
 __Implementation and migration__ 
  * `Migration view` - an architecture of transition.
