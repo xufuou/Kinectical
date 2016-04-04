@@ -26,7 +26,7 @@ __Business__
 
 __Applications__
 
-* Application behaviour view
+* Request system behaviour view
 * Application cooperation view
 * Application structure view
 * Application usage view
