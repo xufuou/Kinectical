@@ -38,7 +38,7 @@ __Technology__
 
 __Implementation and migration__ 
  * `Migration view` - an architecture of transition.
- * `Implementation` and migration view - the model for implementation and transition.
+ * `Implementation and migration view` - the model for implementation and transition.
 
 
 __Additional views__
